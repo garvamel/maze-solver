@@ -1,0 +1,1 @@
+See if maze.py's ._solve_r_() can be made shorter.
